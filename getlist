@@ -1,0 +1,22 @@
+[
+  {
+    "cateID": 1,
+    "name": "Cơm",
+    "image": "com.jpg"
+  },
+  {
+    "cateID": 2,
+    "name": "Bún",
+    "image": "bun.jpg"
+  },
+  {
+    "cateID": 3,
+    "name": "Đồ Uống",
+    "image": "douong.jpg"
+  },
+  {
+    "cateID": 4,
+    "name": "Tráng Miệng",
+    "image": "kem."
+  }
+]
